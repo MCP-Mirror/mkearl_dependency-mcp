@@ -1,0 +1,1 @@
+{"timestamp":1734163624291,"data":{"path":"PT.Application\\DTOs\\TimesheetDto.cs","imports":["System","System.ComponentModel.DataAnnotations","MongoDB.Bson"],"exports":["TimesheetDto"],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

@@ -1,0 +1,1 @@
+{"timestamp":1734163630829,"data":{"path":"PT.Domain\\Events\\IDomainEvent.cs","imports":["System"],"exports":["IDomainEvent"],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

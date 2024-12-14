@@ -1,0 +1,1 @@
+{"timestamp":1734163627677,"data":{"path":"PT.Domain\\Common\\ValidationHelper.cs","imports":["System","System.Collections.Generic","System.Linq","System.Text","System.Threading.Tasks","PT.Domain.Exceptions","MongoDB.Bson","System.Text.RegularExpressions"],"exports":[],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

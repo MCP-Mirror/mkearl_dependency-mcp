@@ -1,0 +1,1 @@
+{"timestamp":1734163623998,"data":{"path":"PT.Application\\DTOs\\AuthenticationRequest.cs","imports":["System.ComponentModel.DataAnnotations"],"exports":["AuthenticationRequestDto"],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

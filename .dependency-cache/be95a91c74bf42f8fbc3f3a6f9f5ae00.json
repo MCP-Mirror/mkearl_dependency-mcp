@@ -1,0 +1,1 @@
+{"timestamp":1734163627257,"data":{"path":"PT.Client\\Shared\\CustomAuthenticationStateProvider.cs","imports":["System.Security.Claims","Microsoft.AspNetCore.Components.Authorization","PT.Domain.Interfaces","System.IdentityModel.Tokens.Jwt"],"exports":["CustomAuthenticationStateProvider"],"namespaces":[]},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

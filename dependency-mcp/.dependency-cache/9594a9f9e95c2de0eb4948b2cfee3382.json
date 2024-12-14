@@ -1,0 +1,1 @@
+{"timestamp":1734163627923,"data":{"path":"PT.Domain\\Entities\\ComplianceRule.cs","imports":["System","System.Collections.Generic","PT.Domain.Common","PT.Domain.Events","PT.Domain.Exceptions","PT.Domain.ValueObjects"],"exports":["ComplianceRule"],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

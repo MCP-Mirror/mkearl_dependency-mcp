@@ -1,0 +1,1 @@
+{"timestamp":1734163624830,"data":{"path":"PT.Application\\Interfaces\\IUserRepository.cs","imports":["PT.Domain.Entities","System.Collections.Generic","System.Threading.Tasks"],"exports":["IUserRepository"],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

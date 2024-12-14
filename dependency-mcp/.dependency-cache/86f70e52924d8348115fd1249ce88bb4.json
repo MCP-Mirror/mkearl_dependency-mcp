@@ -1,0 +1,1 @@
+{"timestamp":1734163634891,"data":{"path":"PT.Domain\\ValueObjects\\PhoneNumber.cs","imports":["System","System.Text.RegularExpressions","PT.Domain.Common","PT.Domain.Exceptions"],"exports":["PhoneNumber"],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

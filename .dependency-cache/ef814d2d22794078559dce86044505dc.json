@@ -1,0 +1,1 @@
+{"timestamp":1734163625178,"data":{"path":"PT.Application\\Mapping\\AddressProfile.cs","imports":["AutoMapper","PT.Application.DTOs","PT.Domain.Entities"],"exports":["AddressProfile"],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

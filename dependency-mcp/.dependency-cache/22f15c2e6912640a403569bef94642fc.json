@@ -1,0 +1,1 @@
+{"timestamp":1734163632714,"data":{"path":"PT.Domain\\Interfaces\\Repositories\\IJobRepository.cs","imports":["System","System.Collections.Generic","System.Threading.Tasks","PT.Domain.Common","PT.Domain.Entities"],"exports":["IJobRepository"],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

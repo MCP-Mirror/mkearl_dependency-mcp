@@ -1,0 +1,1 @@
+{"timestamp":1734163634340,"data":{"path":"PT.Domain\\Validators\\ComplianceRuleThresholdsValidator.cs","imports":["PT.Domain.Common","PT.Domain.Entities","PT.Domain.ValueObjects","System.Collections.Generic","System.Linq"],"exports":["ComplianceRuleThresholdsValidator"],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

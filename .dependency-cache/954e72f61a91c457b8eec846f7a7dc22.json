@@ -1,0 +1,1 @@
+{"timestamp":1734163623949,"data":{"path":"PT.Application\\DTOs\\AddressDto.cs","imports":["System","System.Collections.Generic","System.ComponentModel.DataAnnotations","MongoDB.Bson","System.Text.RegularExpressions","System.ComponentModel"],"exports":["AddressDto"],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

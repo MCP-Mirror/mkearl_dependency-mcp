@@ -1,0 +1,1 @@
+{"timestamp":1734163625228,"data":{"path":"PT.Application\\Mapping\\JobProfile.cs","imports":["AutoMapper","PT.Domain.Entities"],"exports":["JobProfile"],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

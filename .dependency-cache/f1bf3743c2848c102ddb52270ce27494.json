@@ -1,0 +1,1 @@
+{"timestamp":1734163627628,"data":{"path":"PT.Domain\\Common\\DomainValidationException.cs","imports":["System","System.Collections.Generic","System.Linq"],"exports":["DomainValidationException"],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

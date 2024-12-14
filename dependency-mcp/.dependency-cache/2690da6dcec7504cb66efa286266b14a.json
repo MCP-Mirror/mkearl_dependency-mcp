@@ -1,0 +1,1 @@
+{"timestamp":1734163635990,"data":{"path":"PT.Infrastructure\\Repositories\\BaseRepository.cs","imports":["MongoDB.Driver","PT.Domain.Interfaces.Repositories","System","System.Collections.Generic","System.Linq.Expressions","System.Threading.Tasks"],"exports":[],"namespaces":[],"architecturalLayer":"Infrastructure"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

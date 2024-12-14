@@ -1,0 +1,1 @@
+{"timestamp":1734163625276,"data":{"path":"PT.Application\\Mapping\\VehicleProfile.cs","imports":["AutoMapper","PT.Domain.Entities","PT.Application.DTOs"],"exports":["VehicleProfile"],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

@@ -1,0 +1,1 @@
+{"timestamp":1734163633236,"data":{"path":"PT.Domain\\Interfaces\\Services\\ITenantService.cs","imports":["System","System.Collections.Generic","System.Threading.Tasks","PT.Domain.Entities","PT.Domain.Enums"],"exports":["ITenantService"],"namespaces":[],"architecturalLayer":"Domain"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

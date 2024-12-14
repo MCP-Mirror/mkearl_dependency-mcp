@@ -1,0 +1,1 @@
+{"timestamp":1734163636834,"data":{"path":"PT.Infrastructure\\Services\\USPS\\USPSBaseService.cs","imports":["System","System.Net.Http","Microsoft.Extensions.Logging","PT.Domain.Interfaces.Services"],"exports":[],"namespaces":[],"architecturalLayer":"Infrastructure"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

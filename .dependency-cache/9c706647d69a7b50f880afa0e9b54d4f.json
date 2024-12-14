@@ -1,0 +1,1 @@
+{"timestamp":1734163635253,"data":{"path":"PT.Infrastructure\\Data\\MongoSettings.cs","imports":["System"],"exports":["IMongoSettings","MongoSettings"],"namespaces":[],"architecturalLayer":"Infrastructure"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

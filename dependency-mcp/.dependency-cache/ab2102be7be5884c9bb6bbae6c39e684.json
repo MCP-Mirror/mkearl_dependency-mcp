@@ -1,0 +1,1 @@
+{"timestamp":1734163635455,"data":{"path":"PT.Infrastructure\\Helpers\\XmlSerializationHelper.cs","imports":["System","System.IO","System.Text","System.Xml","System.Xml.Serialization"],"exports":[],"namespaces":[],"architecturalLayer":"Infrastructure"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}

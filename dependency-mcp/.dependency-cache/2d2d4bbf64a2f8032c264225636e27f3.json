@@ -1,0 +1,1 @@
+{"timestamp":1734163623897,"data":{"path":"PT.Application\\DependencyInjection.cs","imports":["Microsoft.Extensions.Configuration","Microsoft.Extensions.DependencyInjection","PT.Application.Services","PT.Domain.Interfaces.Services","PT.Infrastructure.Services"],"exports":[],"namespaces":[],"architecturalLayer":"Application"},"gitHash":"244163f5062bf873f1890c7ee367a15569bc6d85"}
